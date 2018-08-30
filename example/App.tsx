@@ -11,8 +11,10 @@ import Footer from './components/Footer';
 
 
 const routes = new Array<Route>();
-const routeOne: Route = {routeName: 'two', routeComponent: FirstRoute};
+
+const routeOne: Route = {routeName: 'one', routeComponent: FirstRoute};
 routes.push(routeOne);
+
 const routeTwo: Route = {routeName: 'two', routeComponent: SecondRoute};
 routes.push(routeTwo);
 
