@@ -1,0 +1,33 @@
+{
+  "name": "react-native-simple-navigation",
+  "version": "1.0.2",
+  "description": "React Native lightweight library for navigation.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/justinas-sideikis/react-native-swipe-navigation.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "navigation",
+    "navigate",
+    "swipe",
+    "navigator"
+  ],
+  "author": "justinas-sideikis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinas-sideikis/react-native-swipe-navigation/issues"
+  },
+  "homepage": "https://github.com/justinas-sideikis/react-native-swipe-navigation#readme",
+  "peerDependencies": {
+    "react-native": "*",
+    "react": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
