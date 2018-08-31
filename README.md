@@ -2,7 +2,7 @@
 
 React Native lightweight library for navigation with swiping.
 
-Only tried it on typescript project and on Android, so I can't say id its works on ECMAScripc or on iOS device.
+Only tried it on Android, so I can't say if it works on iOS device.
 
 ## How to use:
 
