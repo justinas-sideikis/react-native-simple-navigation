@@ -4,7 +4,7 @@ React Native lightweight library for navigation with swiping.
 
 Only tried it on Android, so I can't say if it works on iOS device.
 
-##Any sugestions or bugs?
+## Any sugestions or bugs?
 
 Write them to: <justinas.sid@gmail.com>
 
